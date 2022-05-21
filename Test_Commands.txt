@@ -1,0 +1,8 @@
+Test Commands For both the main procedures
+For the Expense Procedure
+use csoft4;
+call Expense(424, '2021-11-07');
+
+For the Payment Procedure
+use csoft4;
+call Payment(276, '2021-04-21');
